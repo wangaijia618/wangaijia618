@@ -22,7 +22,16 @@
 <a href="mailto:ajw7427@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
+![Aijia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wangaijia618&theme=solarized-light&layout=compact&custom_title=Languages&langs_count=4)
+ </br>
 
+![Aijia's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangaijia618&count_private=true&theme=solarized-light&custom_title=Stats&hide=contribs&line_height=35)
+</br>
+
+![Aijia's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=wangaijia618&theme=solarized-light&hide_border=false)
+<!-- <div align="left">
+![Leetcode Stats](https://leetcard.jacoblin.cool/wangaijia?theme=wtf)    
+</div> -->
 
 <!-- - 🔭 I’m currently working on coding
 - 🌱 I’m currently learning coding
