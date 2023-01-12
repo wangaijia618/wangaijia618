@@ -17,7 +17,7 @@
 
 
 
-![Aijia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?user=wangaijia618&theme=solarized-light&layout=compact&custom_title=Languages&langs_count=4)
+![Aijia's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wangaijia618&theme=solarized-light&layout=compact&custom_title=Languages&langs_count=4)
  </br>
 
 ![Aijia's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangaijia618&count_private=true&theme=solarized-light&custom_title=Stats&hide=contribs&line_height=35)
