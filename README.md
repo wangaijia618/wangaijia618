@@ -35,7 +35,7 @@
 <a href="https://angel.co/aijia-ivy-wang" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
 <a href="mailto:ajw7427@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-<!-- - 🔭 I’m currently working on coding
+<!-- - dddddd🔭 I’m currently working on coding
 - 🌱 I’m currently learning coding
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
