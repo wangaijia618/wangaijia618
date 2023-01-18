@@ -23,6 +23,9 @@
 
 ![Aijia's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangaijia618&env=PAT_1&count_private=true&theme=solarized-light&custom_title=Stats&hide=contribs&line_height=35)
 </br> -->
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangaijia618&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangaijia618&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Aijia's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=wangaijia618&theme=solarized-light&hide_border=false)
 <!-- <div align="left">
