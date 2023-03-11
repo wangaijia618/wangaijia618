@@ -1,7 +1,8 @@
   
 <!--dfdfd】、fddfddfdf <h3 align="center">
   Hi there 👋 I am Aijia Wang
-</h3>sssfgfgddfrtdfdffdcvcfdssss -->
+</h3>sssfgfgddfrtdfd
+cvcfdssss -->
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&size=50&color=9DC183&center=true&vCenter=true&width=1000&height=300&lines=Hi+there+👋+I+am+Aijia+Wang; A+Software+Developer" alt="Typing SVG" /></a>
